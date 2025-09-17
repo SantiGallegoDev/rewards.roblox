@@ -11,9 +11,6 @@ import {
 
 export const NavigationBarSection = (): JSX.Element => {
   const navigationItems = [
-    { label: "Charts", width: "w-[48.7px]" },
-    { label: "Marketplace", width: "w-[91.64px]" },
-    { label: "Create", width: "w-[48.18px]" },
     { label: "Robux", width: "w-[46.59px]" },
   ];
 
